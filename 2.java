@@ -10,3 +10,4 @@ test merge / my name is fenzhi
 再次修改来试试，从远程仓库中把代码fetch到本地缓存中，分为两步
 1.fetch origin 先拉
 2.meger origin/master 在合并
+3.再次测试
